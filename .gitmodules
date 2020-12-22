@@ -1,0 +1,3 @@
+[submodule "FastTextExperiments/FastTextExperiments/wikifil"]
+	path = FastTextExperiments/FastTextExperiments/wikifil
+	url = https://github.com/hghodrati/wikifil.git
